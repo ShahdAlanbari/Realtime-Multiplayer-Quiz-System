@@ -1,0 +1,200 @@
+--- Game Session Log ---
+Date/Time: Thu Nov 27 05:20:14 AST 2025
+Player: Fay
+Final Score: 15 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 14:41:29 AST 2025
+Player: fay
+Final Score: 381 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 14:41:57 AST 2025
+Player: Player1
+Final Score: 100 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 14:56:57 AST 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 14:57:12 AST 2025
+Player: Player1
+Final Score: 176 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 15:10:18 AST 2025
+Player: Player1
+Final Score: 95 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 15:18:20 AST 2025
+Player: pppppp
+Final Score: 162 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 16:53:02 AST 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 17:13:31 AST 2025
+Player: host
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 19:52:53 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:16:24 GMT+03:00 2025
+Player: Player2
+Final Score: 219 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:16:24 GMT+03:00 2025
+Player: Player1
+Final Score: 86 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:16:24 GMT+03:00 2025
+Player: host
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:18:00 GMT+03:00 2025
+Player: host
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:18:00 GMT+03:00 2025
+Player: Player2
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:18:00 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:39:35 GMT+03:00 2025
+Player: host
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:39:35 GMT+03:00 2025
+Player: Player2
+Final Score: 90 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:39:35 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:51:07 GMT+03:00 2025
+Player: host
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:51:07 GMT+03:00 2025
+Player: Player2
+Final Score: 172 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 20:51:07 GMT+03:00 2025
+Player: Player1
+Final Score: 90 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 21:20:49 GMT+03:00 2025
+Player: ost
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 21:20:49 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Thu Nov 27 21:20:49 GMT+03:00 2025
+Player: Player2
+Final Score: 262 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Sun Nov 30 21:48:18 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Sun Nov 30 21:48:18 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Sun Nov 30 21:48:18 GMT+03:00 2025
+Player: Player2
+Final Score: 72 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 11:58:41 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 11:58:41 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 11:58:41 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 12:08:04 GMT+03:00 2025
+Player: host
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 12:08:04 GMT+03:00 2025
+Player: Player1
+Final Score: 81 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 12:08:04 GMT+03:00 2025
+Player: Player2
+Final Score: 67 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 12:14:23 GMT+03:00 2025
+Player: host
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 12:14:23 GMT+03:00 2025
+Player: Player2
+Final Score: 76 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 12:14:23 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 13:06:41 GMT+03:00 2025
+Player: Player1
+Final Score: 0 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 13:06:41 GMT+03:00 2025
+Player: Player1
+Final Score: 62 points
+------------------------------------
+--- Game Session Log ---
+Date/Time: Mon Dec 01 13:06:41 GMT+03:00 2025
+Player: Player2
+Final Score: 0 points
+------------------------------------
